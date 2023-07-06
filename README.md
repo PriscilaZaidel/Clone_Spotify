@@ -5,6 +5,7 @@
 ## Tecnologias usadas:
 + HTML
 + Css
++ JavaScript
 
 ### Projeto:
 Neste projeto criamos uma página web do Spotify  com intuito de
